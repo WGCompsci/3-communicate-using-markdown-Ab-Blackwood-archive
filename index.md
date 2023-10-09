@@ -9,3 +9,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] start project
+- [x] added headers
+- [x] added image
+- [x] added list
